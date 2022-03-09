@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeLata.ConsoleApp", "Vo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaHarmonicaNotas.ConsoleApp", "MediaHarmonicaNotas.ConsoleApp\MediaHarmonicaNotas.ConsoleApp.csproj", "{7C9B08C0-2C1B-47E6-9BC7-A23E920A7F73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaPonderada.ConsoleApp", "MediaPonderada.ConsoleApp\MediaPonderada.ConsoleApp.csproj", "{51AC7C3A-521A-48E2-8CAD-3EC690670152}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{7C9B08C0-2C1B-47E6-9BC7-A23E920A7F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C9B08C0-2C1B-47E6-9BC7-A23E920A7F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C9B08C0-2C1B-47E6-9BC7-A23E920A7F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51AC7C3A-521A-48E2-8CAD-3EC690670152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AC7C3A-521A-48E2-8CAD-3EC690670152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AC7C3A-521A-48E2-8CAD-3EC690670152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AC7C3A-521A-48E2-8CAD-3EC690670152}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
