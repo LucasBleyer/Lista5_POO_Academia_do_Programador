@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumoCombustivel.ConsoleA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeEsfera.ConsoleApp", "VolumeEsfera.ConsoleApp\VolumeEsfera.ConsoleApp.csproj", "{90DC020F-11D3-4EB3-ADC4-A6EB4B04BE16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelciusToFahrenheit.ConsoleApp", "CelciusToFahrenheit.ConsoleApp\CelciusToFahrenheit.ConsoleApp.csproj", "{9418BB5C-AF9F-4022-A168-4F5AAF74FD76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{90DC020F-11D3-4EB3-ADC4-A6EB4B04BE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90DC020F-11D3-4EB3-ADC4-A6EB4B04BE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90DC020F-11D3-4EB3-ADC4-A6EB4B04BE16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9418BB5C-AF9F-4022-A168-4F5AAF74FD76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9418BB5C-AF9F-4022-A168-4F5AAF74FD76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9418BB5C-AF9F-4022-A168-4F5AAF74FD76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9418BB5C-AF9F-4022-A168-4F5AAF74FD76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
