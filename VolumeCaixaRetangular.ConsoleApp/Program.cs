@@ -6,7 +6,13 @@ namespace VolumeCaixaRetangular.ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CaixaRetangular caixa1 = new CaixaRetangular();
+            caixa1.largura = 10;
+            caixa1.altura = 20;
+            caixa1.comprimento = 30;
+
+            Console.WriteLine("volume: " + caixa1.CalcularVolume());
+
         }
     }
 }
