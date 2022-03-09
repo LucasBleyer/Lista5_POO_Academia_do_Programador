@@ -1,4 +1,5 @@
-﻿using System;
+﻿//ex 9
+using System;
 
 namespace MediaHarmonicaNotas.ConsoleApp
 {
