@@ -1,4 +1,5 @@
-﻿using System;
+﻿//ex 8
+using System;
 
 namespace VolumeLata.ConsoleApp
 {
