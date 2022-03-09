@@ -4,15 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VolumeEsfera.ConsoleApp
+namespace VolumeLataConsoleApp
 {
-    internal class Esfera
+    internal class Lata
     {
         public double raio;
+        public double altura;
 
         public double CalcularVolume()
         {
-            double volume = 1.33 * Math.Pow(raio, 3) * 3.14;
+            double volume = 3.14 * Math.Pow(raio, 2) * altura;
             return Math.Round(volume, 2);
         }
     }
