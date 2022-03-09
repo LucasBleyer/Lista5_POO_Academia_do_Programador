@@ -1,4 +1,5 @@
-﻿using System;
+﻿//ex 6
+using System;
 
 namespace CelciusToFahrenheit.ConsoleApp
 {
