@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeCilindro.ConsoleApp",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumoCombustivel.ConsoleApp", "ConsumoCombustivel.ConsoleApp\ConsumoCombustivel.ConsoleApp.csproj", "{C5247850-7C02-4706-927D-3870C00A81FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeEsfera.ConsoleApp", "VolumeEsfera.ConsoleApp\VolumeEsfera.ConsoleApp.csproj", "{90DC020F-11D3-4EB3-ADC4-A6EB4B04BE16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C5247850-7C02-4706-927D-3870C00A81FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5247850-7C02-4706-927D-3870C00A81FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5247850-7C02-4706-927D-3870C00A81FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90DC020F-11D3-4EB3-ADC4-A6EB4B04BE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DC020F-11D3-4EB3-ADC4-A6EB4B04BE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DC020F-11D3-4EB3-ADC4-A6EB4B04BE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DC020F-11D3-4EB3-ADC4-A6EB4B04BE16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
