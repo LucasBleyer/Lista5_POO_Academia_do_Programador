@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeCaixaRetangular.Conso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FahrenheitToCelcius.ConsoleApp", "FahrenheitToCelcius.ConsoleApp\FahrenheitToCelcius.ConsoleApp.csproj", "{28278351-B56E-4D0C-986E-6189561B3FE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeCilindro.ConsoleApp", "VolumeCilindro.ConsoleApp\VolumeCilindro.ConsoleApp.csproj", "{8F38D12C-DDD7-413A-B86E-B6265E7D6993}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{28278351-B56E-4D0C-986E-6189561B3FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28278351-B56E-4D0C-986E-6189561B3FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28278351-B56E-4D0C-986E-6189561B3FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F38D12C-DDD7-413A-B86E-B6265E7D6993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F38D12C-DDD7-413A-B86E-B6265E7D6993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F38D12C-DDD7-413A-B86E-B6265E7D6993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F38D12C-DDD7-413A-B86E-B6265E7D6993}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

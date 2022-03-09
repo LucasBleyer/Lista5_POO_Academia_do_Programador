@@ -9,6 +9,7 @@ namespace FahrenheitToCelcius.ConsoleApp
     internal class Temperatura
     {
         public double fahrenheit;
+
         public double ConverterFahrenheitToCelcius()
         {
             double celcius = fahrenheit - 32 / 1.8;
