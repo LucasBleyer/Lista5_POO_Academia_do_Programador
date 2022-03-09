@@ -1,4 +1,5 @@
-﻿using System;
+﻿//ex 2
+using System;
 
 namespace FahrenheitToCelcius.ConsoleApp
 {
