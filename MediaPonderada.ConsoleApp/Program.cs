@@ -1,4 +1,5 @@
-﻿using System;
+﻿//ex 10
+using System;
 
 namespace MediaPonderada.ConsoleApp
 {
