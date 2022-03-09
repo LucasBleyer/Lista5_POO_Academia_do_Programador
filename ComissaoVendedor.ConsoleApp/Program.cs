@@ -1,4 +1,5 @@
-﻿using System;
+﻿//ex 7
+using System;
 
 namespace ComissaoVendedor.ConsoleApp
 {
