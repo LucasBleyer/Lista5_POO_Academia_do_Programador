@@ -7,7 +7,7 @@ namespace FahrenheitToCelcius.ConsoleApp
         static void Main(string[] args)
         {
             Temperatura temp1 = new Temperatura();
-            temp1.fahrenheit = 48;
+            temp1.fahrenheit = 49;
 
             Console.WriteLine("Celsius: " + temp1.ConverterFahrenheitToCelcius());
         }
